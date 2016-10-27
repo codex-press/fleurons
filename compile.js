@@ -27,14 +27,14 @@ fs.readdirSync('./export').map(filename => {
               svg.attrs.width = {
                 name: 'width',
                 prefix: '',
-                value: '300',
+                value: '150',
                 local: ''
               };
 
               svg.attrs.style = {
                 name: 'style',
                 prefix: '',
-                value: 'display:block; margin: 1rem auto;',
+                value: 'opacity: 0.8; fill: currentColor; display: block; margin: 1rem auto;',
                 local: ''
               };
             }
