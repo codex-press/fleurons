@@ -34,7 +34,7 @@ fs.readdirSync('./export').map(filename => {
               svg.attrs.style = {
                 name: 'style',
                 prefix: '',
-                value: 'opacity: 0.8; fill: currentColor; display: block; margin: 1rem auto;',
+                value: 'stroke: currentColor; fill: currentColor; display: block; margin: 1rem auto;',
                 local: ''
               };
             }
