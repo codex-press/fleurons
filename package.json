@@ -1,0 +1,22 @@
+{
+  "name": "fleurons",
+  "version": "1.0.0",
+  "description": "A fleuron is a tool to create athmosphere of the articile using typographical ornaments.",
+  "main": "compile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codex-press/fleurons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codex-press/fleurons/issues"
+  },
+  "homepage": "https://github.com/codex-press/fleurons#readme",
+  "dependencies": {
+    "svgo": "^0.7.1"
+  }
+}
