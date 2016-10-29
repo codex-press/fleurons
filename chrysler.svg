@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 193.9" class="fleuron chrysler" width="150"><path d="M437.5 51.9h31.4l-31.4-13.4z"/><path d="M63.5 51.9H189l-17.1 15H19.1l14.3 16h105.8l-12 12H18.5l14.7 16H77l27 27.1-11.9-27.1H23.4l-17.3-16h109.8l11.9-12H19.1l-15.4-16h125.4l15.3-15z" class="side-bars"/><path d="M436.5 51.9H311l17.1 15h152.8l-14.3 16H360.8l12 12h108.7l-14.7 16H423L396 138l11.9-27.1h68.7l17.3-16H384.1l-11.9-12h108.7l15.4-16H370.9l-15.3-15z" class="side-bars"/><path d="M62.5 51.9H30.1l32.4-13.4z" class="side-bars"/><path d="M250.5 97V4.3l16 17.1v152.8l16-14.3V54.1l11 12.1v76.1l16.5-14.6 1-11.5 29.7-16.3h-29.6l-1.1 37.4-16.5 17.5V77.4l-11-11.9v108.7l-16 15.5V64.2l-16-15.3z" class="center-piece"/><path d="M250.5 97V4.3l16 17.1v152.8l16-14.3V54.1l11 12.1v76.1l16.5-14.6 1-11.5 29.7-16.3h-29.6l-1.1 37.4-16.5 17.5V77.4l-11-11.9v108.7l-16 15.5V64.2l-16-15.3z" class="center-piece"/><path d="M311.5 92.9h31.8l-31.8-13.3z" class="center-piece"/><path d="M188.5 92.9h-32.8l32.8-13.3z" class="center-piece"/><path d="M247.5 97V4.3l-16 17.1v152.8l-16-14.3V54.1l-11 12.1v76.1l-16-14.6v-11.4l-30.8-16.4h30.6l-.1 37.4 16.3 17.5V77.4l11-11.9v108.7l16 15.5V64.2l16-15.3z" class="center-piece"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 193.9" class="fleuron chrysler" width="150"><style>
+svg.fleuron {
+  display: block;
+  margin: 2rem auto;
+}
+svg.fleuron.big {
+  width: 300px;
+}
+svg.fleuron.small {
+  width: 80px;
+}
+ .fleuron.chrysler { fill: none; stroke: currentColor; stroke-width: 5; } </style><path d="M437.5 51.9h31.4l-31.4-13.4z"/><path d="M63.5 51.9H189l-17.1 15H19.1l14.3 16h105.8l-12 12H18.5l14.7 16H77l27 27.1-11.9-27.1H23.4l-17.3-16h109.8l11.9-12H19.1l-15.4-16h125.4l15.3-15z" class="side"/><path d="M436.5 51.9H311l17.1 15h152.8l-14.3 16H360.8l12 12h108.7l-14.7 16H423L396 138l11.9-27.1h68.7l17.3-16H384.1l-11.9-12h108.7l15.4-16H370.9l-15.3-15z" class="side"/><path d="M62.5 51.9H30.1l32.4-13.4z" class="side"/><path d="M250.5 97V4.3l16 17.1v152.8l16-14.3V54.1l11 12.1v76.1l16.5-14.6 1-11.5 29.7-16.3h-29.6l-1.1 37.4-16.5 17.5V77.4l-11-11.9v108.7l-16 15.5V64.2l-16-15.3z" class="center"/><path d="M250.5 97V4.3l16 17.1v152.8l16-14.3V54.1l11 12.1v76.1l16.5-14.6 1-11.5 29.7-16.3h-29.6l-1.1 37.4-16.5 17.5V77.4l-11-11.9v108.7l-16 15.5V64.2l-16-15.3z" class="center"/><path d="M311.5 92.9h31.8l-31.8-13.3z" class="center"/><path d="M188.5 92.9h-32.8l32.8-13.3z" class="center"/><path d="M247.5 97V4.3l-16 17.1v152.8l-16-14.3V54.1l-11 12.1v76.1l-16-14.6v-11.4l-30.8-16.4h30.6l-.1 37.4 16.3 17.5V77.4l11-11.9v108.7l16 15.5V64.2l16-15.3z" class="center"/></svg>

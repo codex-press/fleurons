@@ -2,31 +2,31 @@
 <!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 496.7 488.3" style="enable-background:new 0 0 496.7 488.3;" xml:space="preserve">
-<g id="crop-circle">
-	<g id="hollow-circles">
+<g>
+	<g id="big-circle">
 		
-			<rect x="78.2" y="77" transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.4368 0.4398)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" width="341.1" height="341.1"/>
+			<rect x="85.5" y="85.1" transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.4383 0.4397)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" width="326.5" height="326.5"/>
 		
-			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -102.1719 249.0168)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="248.8" cy="247.5" rx="85.6" ry="85.6"/>
+			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -102.7932 249.248)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="248.7" cy="248.4" rx="82" ry="82"/>
 		
-			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -102.1719 249.0168)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="248.8" cy="247.5" rx="85.6" ry="85.6"/>
+			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -102.7932 249.248)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="248.7" cy="248.4" rx="82" ry="82"/>
 		
-			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -151.9053 369.9894)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="369.6" cy="367.9" rx="85.6" ry="85.6"/>
+			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -150.4076 365.0663)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="364.4" cy="363.6" rx="82" ry="82"/>
 		
-			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -52.4385 128.0441)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="128" cy="127.2" rx="85.6" ry="85.6"/>
+			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -55.1787 133.4297)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="133.1" cy="133.2" rx="82" ry="82"/>
 		
-			<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.4368 0.4398)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="248.8" cy="247.5" rx="85.6" ry="85.6"/>
+			<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.4383 0.4397)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="248.7" cy="248.4" rx="82" ry="82"/>
 		
-			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -223.1445 199.2833)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="128.4" cy="368.3" rx="85.6" ry="85.6"/>
+			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 -218.6115 201.6336)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="133.5" cy="364" rx="82" ry="82"/>
 		
-			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 18.8007 298.7502)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="369.1" cy="126.7" rx="85.6" ry="85.6"/>
+			<ellipse transform="matrix(0.7059 -0.7084 0.7084 0.7059 13.0252 296.8624)" style="fill:none;stroke:#000000;stroke-width:10.0462;stroke-miterlimit:10;" cx="364" cy="132.7" rx="82" ry="82"/>
 	</g>
-	<g id="fill-circles">
-		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.4368 0.4398)" cx="248.8" cy="247.5" rx="39" ry="39"/>
-		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -6.885612e-02 0.8058)" cx="456.2" cy="39.4" rx="39" ry="39"/>
-		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.7915 0.8077)" cx="456.9" cy="448.5" rx="39" ry="39"/>
-		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -7.080783e-02 6.913243e-02)" cx="39.1" cy="40.1" rx="39" ry="39"/>
-		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.7935 7.104712e-02)" cx="39.8" cy="449.3" rx="39" ry="39"/>
+	<g id="small-circle">
+		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.4366 0.4397)" cx="248.7" cy="247.4" rx="37.4" ry="37.4"/>
+		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -8.429337e-02 0.7901)" cx="447.3" cy="48.1" rx="37.4" ry="37.4"/>
+		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.7762 0.792)" cx="448" cy="439.8" rx="37.4" ry="37.4"/>
+		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -8.616192e-02 8.486656e-02)" cx="48" cy="48.8" rx="37.4" ry="37.4"/>
+		<ellipse transform="matrix(1 -1.766277e-03 1.766277e-03 1 -0.7781 8.669968e-02)" cx="48.7" cy="440.5" rx="37.4" ry="37.4"/>
 	</g>
 </g>
 </svg>

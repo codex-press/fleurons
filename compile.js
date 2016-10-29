@@ -1,4 +1,4 @@
-#! /usr/bin/node
+#! /usr/local/bin/node
 
 var fs = require('fs');
 var SVGO = require('svgo');
@@ -126,7 +126,7 @@ fs.readdirSync('./export').map(filename => {
             content: [],
           }, svg);
 
-          let text = styles[name].replace(/\s+/g,' ');
+          let text = styles.global + styles[name].replace(/\s+/g,' ');
           styleElem.content.push(new JSAPI({text}, styleElem));
 
           svg.content.unshift(styleElem);

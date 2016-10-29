@@ -2,60 +2,64 @@
 <!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 484 488.3" style="enable-background:new 0 0 484 488.3;" xml:space="preserve">
-<g id="southwest-squares">
-	<g>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="208.9,88.8 234.5,88.8 
-			234.5,160.9 162.4,160.9 162.4,88.8 165.3,88.8 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="121.9,88.9 90.4,88.9 90.4,16.8 
-			162.4,16.8 162.4,88.9 159.5,88.9 		"/>
+<g>
+	<g id="center">
+		<path style="fill:none;stroke:#000000;stroke-width:9.0093;stroke-miterlimit:10;" d="M214.7,307.5l77.8,0L178.7,193.7l-0.1,80.8
+			c0,0,13.7,1.5,22.3,10.1C209.4,293.2,214.7,307.5,214.7,307.5z"/>
+		<path style="fill:none;stroke:#000000;stroke-width:9.0093;stroke-miterlimit:10;" d="M263,187.9l-77.6-0.1l113.8,113.8l-0.1-80.6
+			c0,0-13.7-1.5-22.3-10.1C268.3,202.3,263,187.9,263,187.9z"/>
+	</g>
+	<g id="squiggle">
+		<g>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="209.9,88.8 235.5,88.8 
+				235.5,160.9 163.4,160.9 163.4,88.8 166.3,88.8 			"/>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="122.9,88.9 91.4,88.9 91.4,16.8 
+				163.4,16.8 163.4,88.9 160.5,88.9 			"/>
+		</g>
+		<g>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="453.4,79.7 478.9,79.7 
+				478.9,151.8 406.9,151.8 406.9,79.7 409.7,79.7 			"/>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="366.4,79.8 334.8,79.8 
+				334.8,7.7 406.9,7.7 406.9,79.8 403.9,79.8 			"/>
+		</g>
+		<g>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="446.4,325.2 471.9,325.2 
+				471.9,397.3 399.9,397.3 399.9,325.2 402.7,325.2 			"/>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="359.4,325.3 327.8,325.3 
+				327.8,253.2 399.9,253.2 399.9,325.3 396.9,325.3 			"/>
+		</g>
+		<g>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="269.7,408.9 244.2,408.9 
+				244.2,336.8 316.2,336.8 316.2,408.9 313.4,408.9 			"/>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="356.7,408.9 388.3,408.9 
+				388.3,480.9 316.2,480.9 316.2,408.9 319.2,408.9 			"/>
+		</g>
+		<g>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="33.3,408.9 7.7,408.9 7.7,336.8 
+				79.8,336.8 79.8,408.9 77,408.9 			"/>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="120.3,408.9 151.9,408.9 
+				151.9,480.9 79.8,480.9 79.8,408.9 82.8,408.9 			"/>
+		</g>
+		<g>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="33.3,172.5 7.7,172.5 7.7,100.4 
+				79.8,100.4 79.8,172.5 77,172.5 			"/>
+			<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="120.3,172.4 151.9,172.4 
+				151.9,244.5 79.8,244.5 79.8,172.4 82.8,172.4 			"/>
+		</g>
 	</g>
 	<g>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="452.4,79.7 477.9,79.7 
-			477.9,151.8 405.9,151.8 405.9,79.7 408.7,79.7 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="365.4,79.8 333.8,79.8 333.8,7.7 
-			405.9,7.7 405.9,79.8 402.9,79.8 		"/>
+		
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.2198 144.3768)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="167.2" cy="89.4" rx="44.8" ry="44.8"/>
+		
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -16.835 280.5725)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="330.3" cy="160.6" rx="44.8" ry="44.8"/>
+		
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -112.1517 380.8053)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="403.6" cy="325.8" rx="44.8" ry="44.8"/>
+		
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -197.4893 343.9998)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="316.5" cy="410.4" rx="44.8" ry="44.8"/>
+		
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -194.8741 207.8041)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="153.4" cy="339.1" rx="44.8" ry="44.8"/>
+		
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -99.5574 107.5713)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="80.1" cy="174" rx="44.8" ry="44.8"/>
 	</g>
-	<g>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="445.4,325.2 470.9,325.2 
-			470.9,397.3 398.9,397.3 398.9,325.2 401.7,325.2 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="358.4,325.3 326.8,325.3 
-			326.8,253.2 398.9,253.2 398.9,325.3 395.9,325.3 		"/>
-	</g>
-	<g>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="268.7,408.9 243.2,408.9 
-			243.2,336.8 315.2,336.8 315.2,408.9 312.4,408.9 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="355.7,408.9 387.3,408.9 
-			387.3,480.9 315.2,480.9 315.2,408.9 318.2,408.9 		"/>
-	</g>
-	<g>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="32.3,408.9 6.7,408.9 6.7,336.8 
-			78.8,336.8 78.8,408.9 76,408.9 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="119.3,408.9 150.9,408.9 
-			150.9,480.9 78.8,480.9 78.8,408.9 81.8,408.9 		"/>
-	</g>
-	<g>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="32.3,172.5 6.7,172.5 6.7,100.4 
-			78.8,100.4 78.8,172.5 76,172.5 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" points="119.3,172.4 150.9,172.4 
-			150.9,244.5 78.8,244.5 78.8,172.4 81.8,172.4 		"/>
-	</g>
-</g>
-<g id="southwest-fills">
-	
-		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.3914 141.9626)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="164.2" cy="88.4" rx="44.8" ry="44.8"/>
-	
-		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -17.0065 278.1583)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="327.3" cy="159.6" rx="44.8" ry="44.8"/>
-	
-		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -112.3233 378.3911)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="400.6" cy="324.8" rx="44.8" ry="44.8"/>
-	<path style="fill:none;stroke:#000000;stroke-width:9.0093;stroke-miterlimit:10;" d="M262,187.9l-77.6-0.1l113.8,113.8l-0.1-80.6
-		c0,0-13.7-1.5-22.3-10.1C267.3,202.3,262,187.9,262,187.9z"/>
-	
-		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -197.6608 341.5856)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="313.5" cy="409.4" rx="44.8" ry="44.8"/>
-	
-		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -195.0457 205.3899)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="150.4" cy="338.1" rx="44.8" ry="44.8"/>
-	
-		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -99.7289 105.1571)" style="fill:none;stroke:#000000;stroke-width:11.3795;stroke-miterlimit:10;" cx="77.1" cy="173" rx="44.8" ry="44.8"/>
-	<path style="fill:none;stroke:#000000;stroke-width:9.0093;stroke-miterlimit:10;" d="M213.7,307.5l77.8,0L177.7,193.7l-0.1,80.8
-		c0,0,13.7,1.5,22.3,10.1C208.4,293.2,213.7,307.5,213.7,307.5z"/>
 </g>
 </svg>

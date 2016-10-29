@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 497" style="enable-background:new 0 0 500 497;" xml:space="preserve">
 <g>
-	<g id="outter-leafs">
+	<g id="outter">
 		<g>
 			<path style="fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;" d="M250,132.2v156.6c0,0,14.6-210.2,68.6-210.2
 				s46.6-46.8,46.6-46.8s0.2-25.1-52.6-25.1S250,132.2,250,132.2z"/>
@@ -53,7 +53,7 @@
 				c0,0-138-159.3-99.8-197.5s0-66.2,0-66.2s-17.8-17.6-55.2,19.7S166,167.5,166,167.5z"/>
 		</g>
 	</g>
-	<g id="inner-leafs">
+	<g id="inner">
 		<g>
 			<path style="fill:none;stroke:#000000;stroke-width:6.5065;stroke-miterlimit:10;" d="M193.2,189.3l76.2,80.2
 				c0,0-110-100.4-137.6-74.1S85,194.2,85,194.2s-12.2-12.9,14.9-38.6S193.2,189.3,193.2,189.3z"/>
