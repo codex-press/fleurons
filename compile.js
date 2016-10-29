@@ -126,7 +126,7 @@ fs.readdirSync('./export').map(filename => {
             content: [],
           }, svg);
 
-          let text = styles.global + styles[name].replace(/\s+/g,' ');
+          let text = (styles.global + styles[name]).replace(/\s+/g,' ');
           styleElem.content.push(new JSAPI({text}, styleElem));
 
           svg.content.unshift(styleElem);
