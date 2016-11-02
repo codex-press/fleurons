@@ -1,8 +1,9 @@
 module.exports = {
 
 global: `
-svg.fleuron {
+html svg.fleuron {
   display: block;
+  width: 150px;
   margin: 2rem auto;
 }
 .big > svg.fleuron {

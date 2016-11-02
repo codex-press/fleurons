@@ -16,20 +16,6 @@ fs.readdirSync('./export').map(filename => {
       {convertPathData: {floatPrecision: 1}},
 
       {addClassesToSVGElement: {classNames: ['fleuron', name]}},
-      {addWidth: {
-        type: 'full',
-        active: true,
-        fn: tree => {
-          tree.content[0].attrs.width = {
-            name: 'width',
-            prefix: '',
-            value: '150',
-            local: ''
-          };
-          return tree;
-        }
-      }},
-
 
       {convertStyleToAttrs: false},
       {removeStyles: {
