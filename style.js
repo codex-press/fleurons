@@ -5,10 +5,10 @@ svg.fleuron {
   display: block;
   margin: 2rem auto;
 }
-svg.fleuron.big {
+.big > svg.fleuron {
   width: 300px;
 }
-svg.fleuron.small {
+.small > svg.fleuron {
   width: 80px;
 }
 `,
@@ -47,6 +47,10 @@ crystal: `
   stroke: currentColor;
   stroke-width: 8;
 }
+.fleuron.crystal .triangle {
+  stroke: none;
+  fill: currentColor;
+}
 `,
 
 'double-crystal': `
@@ -63,6 +67,10 @@ crystal: `
   fill: none;
   stroke: currentColor;
   stroke-width: 5;
+}
+.fleuron.crop-circle .small {
+  stroke: none;
+  fill: currentColor;
 }
 `,
 
