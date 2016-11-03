@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.rawgit.com/codex-press/fleurons/blob/2b999113fea4589a5631b79d1e4f7fd542975b21/chrysler.svg" width="350">
+  <img src="https://cdn.rawgit.com/codex-press/fleurons/2b999113fea4589a5631b79d1e4f7fd542975b21/chrysler.svg" width="350">
 </p>
 <h1 align=center>Codex Fleurons</h1>
 
