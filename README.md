@@ -3,9 +3,11 @@
 </p>
 <h1 align=center>Codex Fleurons</h1>
 
-A fleuron is a tool to create athmosphere of the articile using typographical ornaments. 
+A fleuron is a page ornament with a [long history] in typography. The designs here are easily inserted into pages on the Codex Press publishing platform using an inline asset reference, like { fleurons/chrysler.svg } for the example above. These SVG elements are then inserted inline into the page, where they can be styled in CSS. More information is available in the Codex docs.
 
-You can use these on the Codex Press platform by Scalable Vector Graphics (SVG) which is a more favorable approach to fleurons. The more common way of adding flare to an article is using fonts that have fleurons instead of characters. Fonts are limited in properties while SVG is an unearthed gem glistering with potential. 
+The designs here were created in Adobe Illustrator and exported using the "Save As..." artboards option into the "export" folder. The newer "Export for screens" provides a more compact version of the SVG, but strips out ID information on groups, which is used here to create classes for the various paths and shapes in the designs as described in the Codex docs. The IDs are moved to classes using a custom plugin for the impressive SVG Optimizer in the `compile.js` script.
 
-You can control the size and other properties of the fleurons in your articles by including inline asset. When creating a new paragraph a user can source the 'example.svg' in curly quotes { fleurons/example.svg } this imports the desired svg from github for your use.
-
+[long history]: https://en.wikipedia.org/wiki/Fleuron_(typography)
+[Codex Press]: https://codex.press/
+[Codex docs]: https://codex.press/docs/fleurons
+[SVG Optimizer]: https://github.com/svg/svgo
