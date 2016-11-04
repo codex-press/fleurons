@@ -167,6 +167,7 @@ tiffany: `
   fill: none;
   stroke: currentColor;
   stroke-width: 5;
+  stroke-miterlimit: 2.5;
 }
 `,
 

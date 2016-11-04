@@ -4,41 +4,42 @@
 	 viewBox="0 0 398 500" style="enable-background:new 0 0 398 500;" xml:space="preserve">
 <g>
 	<g>
-		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="219.5,5 219.5,491 270.5,440.8 270.5,57 
-					"/>
-		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="393.5,5 393.5,491 343.5,440.8 343.5,57 
-					"/>
+		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="219.6,3.9 219.4,495.5 270.5,440.8 
+			270.5,54.4 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="393.5,4.5 393.5,495.5 343.5,443 
+			343.5,57 		"/>
 		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="270.5,181.9 309.4,144.1 343.5,181 
 			343.5,316 309.4,351.5 270.5,311.8 		"/>
 		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="219.4,495.5 270.5,495.5 270.5,440.8 		
 			"/>
 		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="270.5,54.4 270.5,4.4 219.6,3.9 		"/>
 		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="393.5,495.5 355,495.5 309.5,450.6 
-			309.5,47 353.4,4.5 393.5,4.5 343.5,54 343.5,443 		"/>
+			309.5,47 353.4,4.5 393.5,4.5 343.5,57 343.5,443 		"/>
 		<path style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" d="M270.5,490.8l39-40.2v-99.1
 			c-39-39.7-39-39.7-39-39.7V490.8z"/>
-		<path style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" d="M270.3,4.4L309.5,47v97.1l-38.1,37.8
-			C273.2,4.4,270.3,4.4,270.3,4.4z"/>
-		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="360.5,37 360.5,235 393.5,263.3 
-			393.5,491 360.5,459.9 360.5,265 393.5,230.2 393.5,5 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="270.3,4.4 309.5,47 309.5,144.1 
+			270.5,181.9 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="360.5,39.3 360.5,235 393.5,263.3 
+			393.5,495.5 360.5,460.9 360.5,265 393.5,230.2 393.5,4.5 		"/>
 	</g>
 	<g>
-		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="178.5,5 178.5,491 127.5,440.8 127.5,57 
-					"/>
-		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="4.5,5 4.5,491 54.5,440.8 54.5,57 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="178.5,4 178.5,495.5 127.5,440.8 
+			127.5,57 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="4.4,4.5 4.5,495.5 54.5,443 54.5,57 		
+			"/>
 		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="127.5,181.9 88.6,144.1 54.5,181 
 			54.5,316 88.6,351.5 127.5,311.8 		"/>
 		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="178.5,495.5 127.5,495.5 127.5,440.8 		
 			"/>
-		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="127.5,54.4 127.5,4.4 178.4,3.9 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="127.5,57 127.5,4.4 178.5,4 		"/>
 		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="4.4,495.5 42.9,495.5 88.5,450.6 
-			88.5,47 44.5,4.5 4.4,4.5 54.5,54 54.5,443 		"/>
+			88.5,47 44.5,4.5 4.4,4.5 54.5,57 54.5,443 		"/>
 		<path style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" d="M127.5,490.8l-39-40.2v-99.1
 			c39-39.7,39-39.7,39-39.7V490.8z"/>
-		<path style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" d="M127.6,4.4L88.5,47v97.1l38.1,37.8
-			C124.8,4.4,127.6,4.4,127.6,4.4z"/>
-		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="37.5,37 37.5,235 4.5,263.3 4.5,491 
-			37.5,459.9 37.5,265 4.5,230.2 4.5,5 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="127.6,4.4 88.5,47 88.5,144.1 
+			126.6,181.9 		"/>
+		<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="37.5,39.2 37.5,235 4.5,263.3 4.4,495.5 
+			37.5,460.8 37.5,265 4.5,230.2 4.4,4.5 		"/>
 	</g>
 	<polygon style="fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;" points="178.5,208.5 200.4,187.1 219.5,208 
 		219.5,284.4 200.4,304.5 178.5,282.1 	"/>
