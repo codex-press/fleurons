@@ -1,4 +1,11 @@
 {
+  "codex" : {
+    "ignore" : [
+      "compile.js",
+      "style.js",
+      "export/"
+    ]
+  },
   "name": "fleurons",
   "version": "1.0.0",
   "description": "A fleuron is a tool to create athmosphere of the articile using typographical ornaments.",
