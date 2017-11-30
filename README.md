@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://codex.press/docs/fleurons">
-    <img src="https://cdn.rawgit.com/codex-press/fleurons/2b999113fea4589a5631b79d1e4f7fd542975b21/chrysler.svg" width="300">
+    <img src="https://usercontent.codex.press/fleurons/chrysler.svg" width="300">
    </a>
 </p>
 <h1 align=center>Codex Fleurons</h1>
